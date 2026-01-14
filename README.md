@@ -35,3 +35,8 @@ then rerun <source ~/.bashrc>
 
 CKOSE VS CODE BEFORE ~/.bashrc THIS VS CONDE DOSENT AUTORELOAD 
 and now open vs code and run <drun filename,py>
+
+#| Program type | Docker flags     |
+| ------------ | ---------------- |
+| No input     | `docker run`     |
+| Uses input() | `docker run -it` |
